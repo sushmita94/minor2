@@ -48,8 +48,7 @@ public class Servlet1 extends HttpServlet
 //			th[y] = new Thread(new LoadThread(request.getParameter("id")));
 			th[y].start();
 			
-			if(y==45){
-				}				
+						
 			
 		}
 

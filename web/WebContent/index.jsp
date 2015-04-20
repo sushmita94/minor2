@@ -3,12 +3,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>Sample jsp</title>
 </head>
 <body>
 <form action="Servlet1" method="post">
+Please Enter ID to list out the corresponding details.<br>
+<br>
 ID<input type="text" name="id" ><br>
-Password<input type="text" name="pwd" ><br>
+<br><br>
 <input type="submit" value="submit" >
 </form>
 </body>
